@@ -8,6 +8,8 @@ Turn a cheap Android photo frame into a family dashboard: unlock it, root it, re
 
 ▶️ **Watch the video: [https://youtu.be/ZLycoUMltNI](https://youtu.be/ZLycoUMltNI)**
 
+<a href="https://buymeacoffee.com/metaljay"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40"></a>
+
 ## Working frames
 
 <a href="https://amzn.to/4zneGNM"><img src="docs/images/devices/B0GHR65YYX.jpg" width="110" alt="10.1&quot; frame from the video (now often ships the PF1007L)" title="10.1&quot; frame from the video (now often ships the PF1007L)"></a>
@@ -181,6 +183,12 @@ trusting it, and remember that a past approval is not permission for a new write
 - Replacing Android: [android-replacement.md](docs/android-replacement.md),
   [android14-dsu.md](docs/android14-dsu.md) (Android 14 GSI trial through DSU)
 - [external-networking.md](docs/external-networking.md)
+
+## ☕ Support
+
+If this copy is useful to you, you can [buy me a coffee](https://buymeacoffee.com/metaljay). Thank you! The project itself is [Wes Bos's photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard), so please support the original too.
+
+<a href="https://buymeacoffee.com/metaljay"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40"></a>
 
 ## Privacy
 
